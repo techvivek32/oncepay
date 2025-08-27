@@ -11,14 +11,20 @@ import { Mail, Phone, MapPin, Clock, Send } from 'lucide-react';
 const contactInfo = [
   {
     icon: MapPin,
-    title: 'Visit Us',
-    content: '123 Business Ave, Suite 100\nNew York, NY 10001',
+    title: 'Operational Office',
+    content: 'Chanderlok Complex, Secunderabad\nParadise Metro station, Telangana-500040',
+    action: null
+  },
+  {
+    icon: MapPin,
+    title: 'Registered Address',
+    content: 'DTC Colony, Shadipur\nNew Delhi, Delhi\n110008, India',
     action: null
   },
   {
     icon: Clock,
     title: 'Business Hours',
-    content: 'Mon-Fri: 9AM-6PM EST\nSat-Sun: 10AM-4PM EST',
+    content: 'Mon-Fri: 9AM-6PM IST\nSat-Sun: 10AM-4PM IST',
     action: null
   }
 ];

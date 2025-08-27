@@ -4,27 +4,27 @@ import { Star, Quote } from 'lucide-react';
 const testimonials = [
   {
     content: "OncePay transformed our customer payment experience. WhatsApp integration increased our conversion rate by 40% and reduced support tickets significantly.",
-    author: "Sarah Chen",
+    author: "Priya Sharma",
     role: "CEO",
     company: "TechFlow Solutions",
     rating: 5,
-    avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face"
+    avatar: "https://xsgames.co/randomusers/assets/avatars/female/74.jpg"
   },
   {
     content: "The split settlement feature is a game-changer for our marketplace. Automatic distribution to vendors saves us hours of manual work every day.",
-    author: "Michael Rodriguez", 
+    author: "Arjun Patel", 
     role: "CFO",
     company: "MarketPlace Pro",
     rating: 5,
-    avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face"
+    avatar: "https://xsgames.co/randomusers/assets/avatars/male/71.jpg"
   },
   {
     content: "Implementation was seamless and the API documentation is excellent. Our development team had everything up and running in just two days.",
-    author: "Emily Johnson",
+    author: "Kavya Reddy",
     role: "CTO", 
     company: "StartupHub",
     rating: 5,
-    avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face"
+    avatar: "https://xsgames.co/randomusers/assets/avatars/female/43.jpg"
   }
 ];
 
